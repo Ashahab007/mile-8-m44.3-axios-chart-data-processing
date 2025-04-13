@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Alice Johnson",
+    "subjects": {
+      "chemistry": 85,
+      "math": 92,
+      "ict": 78
+    }
+  },
+  {
+    "name": "Brian Smith",
+    "subjects": {
+      "chemistry": 74,
+      "math": 88,
+      "ict": 90
+    }
+  },
+  {
+    "name": "Catherine Lee",
+    "subjects": {
+      "chemistry": 91,
+      "math": 95,
+      "ict": 89
+    }
+  },
+  {
+    "name": "David Kim",
+    "subjects": {
+      "chemistry": 67,
+      "math": 72,
+      "ict": 80
+    }
+  },
+  {
+    "name": "Ella Martinez",
+    "subjects": {
+      "chemistry": 88,
+      "math": 93,
+      "ict": 85
+    }
+  },
+  {
+    "name": "Felix Brown",
+    "subjects": {
+      "chemistry": 76,
+      "math": 84,
+      "ict": 82
+    }
+  },
+  {
+    "name": "Grace Wilson",
+    "subjects": {
+      "chemistry": 95,
+      "math": 97,
+      "ict": 91
+    }
+  },
+  {
+    "name": "Henry Davis",
+    "subjects": {
+      "chemistry": 69,
+      "math": 73,
+      "ict": 76
+    }
+  },
+  {
+    "name": "Isabella Clark",
+    "subjects": {
+      "chemistry": 82,
+      "math": 89,
+      "ict": 88
+    }
+  },
+  {
+    "name": "Jack Lewis",
+    "subjects": {
+      "chemistry": 79,
+      "math": 85,
+      "ict": 83
+    }
+  }
+]
