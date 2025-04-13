@@ -25,12 +25,14 @@ const StudentData = ({ studentsDataPromise }) => {
 
   return (
     <div>
+      <h4>Average Results of Students</h4>
       <PieChart width={400} height={400}>
         <Pie data={studentsMarks} dataKey="avg" fill="#8884d8"></Pie>
 
         <Tooltip></Tooltip>
       </PieChart>
 
+      <h4>Chemistry Results of Students</h4>
       <PieChart width={400} height={400}>
         <Pie data={studentsMarks} dataKey="chemistry" fill="#8884d8"></Pie>
         <Tooltip></Tooltip>
